@@ -6,7 +6,9 @@ Day 2:
 I bulit a simple image recognition model with Keras. (see file "ImageNet.ipynb)
 
 Day 3:
-recogninzing handwritten numbers with help of MNIST
+recognizing handwritten numbers with help of MNIST. (see file "Mnist.ipynb)
 
 Day 4:
-building ML model with Cifar10 dataset
+building ML model with Cifar10 dataset. (see file "Cifar10.ipynb)
+
+Day 5:
